@@ -9,9 +9,9 @@ Insights:
 6.	For the competitive player who is good and is only concerned with gems/drafting, after ~56% traditional starts to provide more value than premier the greater and greater the win % is.
 
 Draft event descriptions:
-•	Premier draft: people; 1500 Gems (or 10,000 Gold) entry fee; 7 wins or 3 losses; ranked
-•	Traditional draft: people; 1500 Gems (or 10,000 Gold) entry fee; three best of three matches (regardless of win/loss record); not ranked
-•	Ranked draft: bots; 750 Gems (or 5,000 Gold) entry fee; 7 wins or 3 losses; ranked
+1.	Premier draft: people; 1500 Gems (or 10,000 Gold) entry fee; 7 wins or 3 losses; ranked
+2.	Traditional draft: people; 1500 Gems (or 10,000 Gold) entry fee; three best of three matches (regardless of win/loss record); not ranked
+3.	Ranked draft: bots; 750 Gems (or 5,000 Gold) entry fee; 7 wins or 3 losses; ranked
 
 Notes:
 1.	Only gem entry fee is used (not gold entry fee).
