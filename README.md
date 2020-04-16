@@ -1,4 +1,4 @@
-This Python script calculates the expected value of drafting events on Magic: The Gagther Arena. For each event, and for each win percentage, it computes the probability of each possible win record. From these probabilities it calculates the expected value of each event. The Reddit post with my conclusions is here: https://www.reddit.com/r/MagicArena/comments/g2mieb/expected_value_of_all_arena_draft_events_compared/
+This Python script calculates the expected value of drafting events on Magic: The Gagther Arena. For each event, and for each win percentage, it computes the probability of each possible win record. From these probabilities it calculates the expected value of each event. The Reddit post with my conclusions is here: https://www.reddit.com/r/MagicArena/comments/g2nt1v/expected_value_of_all_arena_draft_events_compared/
 
 Premier draft: people; 1500 Gems (or 10,000 Gold) entry fee; 7 wins or 3 losses; ranked
 
