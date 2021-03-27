@@ -1,5 +1,7 @@
 This Python script calculates the expected value of drafting events on Magic: The Gagther Arena. For each event, and for each win percentage, it computes the probability of each possible win record. From these probabilities it calculates the expected value of each event. The Reddit post with my conclusions is here: https://www.reddit.com/r/MagicArena/comments/g2nt1v/expected_value_of_all_arena_draft_events_compared/
 
+![image](https://user-images.githubusercontent.com/16738116/112730668-3ca73200-8f09-11eb-87ad-94a7dc99d55c.png)
+
 Insights:
 1.  Look at the green lines if building your collection for standard matters to you, and look at the yellow lines if you’re more concerned with the cost in dollars for each draft and whether you can go infinite.
 2.  If your win rate is around 50% (most people), and packs matter to you, the average reward (if you play enough games) is the same across all three events. Let the format (bot or player; best-of-three matches) guide your decision. This assumes your win % will be the same across events.
